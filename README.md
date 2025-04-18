@@ -68,9 +68,3 @@ Output is saved as a `.png` file (default: `map_confidence_spectrum.png`)
 ## 🤝 Reusable for Any Team
 
 Just set `--wolves` to your own team file. The confidence spectrum will always reflect your POV.
-
----
-
-## 📄 License
-
-MIT — free to use and modify.
