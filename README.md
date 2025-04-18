@@ -3,7 +3,7 @@
 
 This is a simple CLI tool that helps Valorant analysts visualize **map matchup confidence** between their team and an upcoming opponent — from their team's point of view.
 
-It outputs a **7-box color spectrum** showing which maps are weak (red), neutral (white), and strong (green) for your team based on recent match data.
+It outputs a **7-box color spectrum** showing which maps are weak (red), neutral (white), and strong (green) for your team based on the upcoming opponent.
 
 ---
 
